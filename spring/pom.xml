@@ -11,5 +11,6 @@
     </parent>
 
     <artifactId>experiment-spring</artifactId>
+    <name>Kakoo's Experiment Software project - Spring</name>
 
 </project>

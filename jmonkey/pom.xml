@@ -11,5 +11,6 @@
     </parent>
 
     <artifactId>experiment-jmonkey</artifactId>
+    <name>Kakoo's Experiment Software project - jMonkey Engine</name>
 
 </project>

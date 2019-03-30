@@ -11,5 +11,6 @@
     </parent>
 
     <artifactId>experiment-akka</artifactId>
+    <name>Kakoo's Experiment Software project - Akka</name>
 
 </project>

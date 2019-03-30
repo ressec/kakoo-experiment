@@ -11,5 +11,6 @@
     </parent>
 
     <artifactId>experiment-common</artifactId>
+    <name>Kakoo's Experiment Software project - Common</name>
 
 </project>

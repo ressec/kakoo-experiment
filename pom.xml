@@ -13,6 +13,7 @@
 
     <artifactId>experiment-parent</artifactId>
     <packaging>pom</packaging>
+    <name>Kakoo's Experiment Software project - Parent</name>
 
     <modules>
         <module>common</module>
